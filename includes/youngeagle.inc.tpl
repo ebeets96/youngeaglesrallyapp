@@ -1,0 +1,1 @@
+<a href="edit.php?id=[@youngeagleid]" class="edit btn btn-primary btn-large" style="color:#FFF;"><i class="fa fa-pencil"></i></a> <a href="includes/delete.php?youngeagle=[@youngeagleid]" onclick="return confirm('Are you sure you want to delete ' + registrants[[@youngeagleid]] + '?')" class="registered btn btn-danger btn-large" style="color:#FFF;"><i class="fa fa-trash"></i></a>
